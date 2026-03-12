@@ -4,6 +4,5 @@ mediapipe==0.10.32
 numpy<2
 pandas
 Pillow
-libgl1
-libglib2.0-0
-ffmpeg
+
+
