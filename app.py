@@ -104,4 +104,5 @@ if uploaded_file is not None:
         # 提供一個按鈕讓使用者可以清除紀錄重新分析
         if st.button("重新分析該影片"):
             st.session_state.analyzed_path = None
+
             st.rerun()
