@@ -3,3 +3,4 @@ opencv-python-headless
 ultralytics
 pandas
 mediapipe
+opencv-python-headless==4.10.0.84
